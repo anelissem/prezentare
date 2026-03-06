@@ -9,6 +9,6 @@ int power(int base, int exp) {
 }
 
 int main() {
-    printf("%d\n", power(2, 10)); // 1024
+    printf("%d\n", power(2, 7)); // 1024
     return 0;
 }
